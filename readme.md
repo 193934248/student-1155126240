@@ -30,4 +30,4 @@ bored | or | something...
 
 ## Oh right, I almost forgot the screenshot :P
 
-![screenshot]()
+![screenshot](Screenshot.png)
